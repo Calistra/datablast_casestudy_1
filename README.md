@@ -8,4 +8,4 @@ Excel ile açılınca birebir sorudaki gibi görünmesi için tek column şeklin
 
 Eğer 3 column şeklinde export edilirse de bu sefer excel ile açılınca columnlara ayrılmış ve "-" yerine "/" konulmuş oluyor ama notepadde istediğiniz formatta geliyor.
 
-Ben ilk söylediğinizi yapmış bulunuyorum
+Ben ilkini yapmış bulunuyorum
